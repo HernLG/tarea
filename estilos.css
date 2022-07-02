@@ -1,0 +1,36 @@
+*{
+    margin: auto;
+}
+body{
+    background-color: aquamarine;
+}
+.cronometro{
+    width: 500px;
+    height: 200px;
+    background-color: blue;
+    font-size: 50px;
+    border-radius: 60px;
+    color: aliceblue;
+    
+}
+h1{
+    font-size: 25px;
+    margin: 0px 150px;
+}
+#numeros{
+    margin: 50px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+}
+.botones{
+}
+.bot{
+    width: 100px;
+    height: 50px;
+    margin: 30px 60px;
+    border-radius: 20px;
+}
+.grupod{
+    
+}
